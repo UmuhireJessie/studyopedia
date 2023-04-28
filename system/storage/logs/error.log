@@ -1,0 +1,15 @@
+2023-04-28 12:31:28 - PHP Warning: imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile
+File: C:\xampp\htdocs\studyopedia\system\library\image.php
+Line: 47
+
+2023-04-28 12:41:25 - PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in C:\xampp\htdocs\studyopedia\system\library\image.php on line 47
+2023-04-28 13:56:07 - PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in C:\xampp\htdocs\studyopedia\system\library\image.php on line 47
+2023-04-28 14:19:24 - PHP Warning: imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile
+File: C:\xampp\htdocs\studyopedia\system\library\image.php
+Line: 47
+
+2023-04-28 14:20:27 - PHP Warning: imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile
+File: C:\xampp\htdocs\studyopedia\system\library\image.php
+Line: 47
+
+2023-04-28 14:29:16 - PHP Warning:  imagecreatefrompng(): gd-png: libpng warning: iCCP: known incorrect sRGB profile in C:\xampp\htdocs\studyopedia\system\library\image.php on line 47
